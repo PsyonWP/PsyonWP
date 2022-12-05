@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yanis Chaabane
-- 👀 I’m interested in IT development
-- 🌱 I’m currently learning BAC +3 CSIA
+- 👀 I’m interested in IT development / eSport
+- 🌱 I’m currently learning BAC +5 E2I (Expert en ingénierie informatique) In France
 - 📫 How to reach me : yanischaabane42230@gmail.com
 
 <!---
